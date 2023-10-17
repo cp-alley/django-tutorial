@@ -1,0 +1,8 @@
+li a {
+  color: green;
+}
+
+body {
+  background: white url("images/bliss.jpg") no-repeat;
+  background-size: contain;
+}
